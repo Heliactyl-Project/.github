@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-organization.com/heliactyl-logo.png" alt="Heliactyl Logo">
+  <img src="https://media.discordapp.net/attachments/1000768414220038204/1157719211678904420/Heliactylv13.png?width=128&height=128">
 </p>
 
 <h1 align="center">The Heliactyl Project</h1>
@@ -19,7 +19,10 @@
 
 ## Introduction
 
-Welcome to The Heliactyl Project – Your go-to Pterodactyl User and Ressource Management Software. Our sleek and simple web-based interface makes administration of your Host a breeze. Experience a new level of control and simplicity.
+<p align="center">
+Welcome to The Heliactyl Project – Your go-to Pterodactyl User and Ressource Management Software. 
+<br> Our sleek and simple web-based interface makes administration of your Host a breeze. Experience a new level of control and simplicity.
+</p>
 
 ## Getting Started
 
