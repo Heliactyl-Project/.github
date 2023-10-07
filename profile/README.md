@@ -5,7 +5,7 @@
 <h1 align="center">The Heliactyl Project</h1>
 
 <p align="center">
-  An elegant and modern solution for managing User and Ressource of your Pterodactyl instances.
+  An elegant and modern solution for managing Users and Ressource of your Pterodactyl instances.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ## Introduction
 
 <p align="center">
-Welcome to The Heliactyl Project – Your go-to Pterodactyl User and Ressource Management Software. 
+Welcome to Heliactyl – Your go-to Pterodactyl User and Ressource Management Software. 
 <br> Our sleek and simple web-based interface makes administration of your Host a breeze. Experience a new level of control and simplicity.
 </p>
 
@@ -48,11 +48,9 @@ For detailed installation and configuration instructions, please refer to the do
 ## Features
 User-Friendly Interface: Our intuitive and user-friendly web-based interface simplifies server management.
 
-Server Management: Effortlessly create, modify, and delete game servers through the panel.
+Server Management: Effortlessly create, modify, and delete game servers through the client area.
 
 Resource Management: Efficiently monitor server resource usage and allocate resources.
-
-Security: The Heliactyl Project includes robust security features to protect your servers and data.
 
 Customization: Easily tailor the panel to your organization's needs.
 
