@@ -60,7 +60,7 @@ Documentation
 For detailed information on how to use and configure Heliactyl, please check out our official documentation. Our documentation includes step-by-step guides, FAQs, and other helpful resources to maximize your experience.
 
 Contributing
-We welcome contributions from the community to help improve and enhance The Heliactyl Project. If you'd like to contribute, please follow our contribution guidelines.
+We welcome contributions from the community to help improve and enhance our Software. If you'd like to contribute, please follow our contribution guidelines.
 
 License
 Heliactyl is licensed under the MIT License. You are free to use and modify this software in accordance with the license terms.
