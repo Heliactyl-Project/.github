@@ -5,7 +5,7 @@
 <h1 align="center">The Heliactyl Project</h1>
 
 <p align="center">
-  An elegant and modern solution for managing Users and Ressource of your Pterodactyl instances.
+  A Simple and easy-to-use solution for managing Users and Ressource of your Pterodactyl Instance.
 </p>
 
 <p align="center">
