@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1000768414220038204/1157719211678904420/Heliactylv13.png?width=128&height=128">
+  <img src="https://media.discordapp.net/attachments/1000768414220038204/1200849114842280008/image-removebg-preview.png?ex=65ff0be3&is=65ec96e3&hm=b4101d07b03c03cfe9c51879345c2eaab8dadbd2b9e12736f5fdc949a2365a22&=&format=webp&quality=lossless&width=500&height=100">
 </p>
 
-<h1 align="center">The Heliactyl Project</h1>
 
 <p align="center">
   A Simple and easy-to-use solution for managing Users and Ressource of your Pterodactyl Instance.
@@ -16,6 +15,7 @@
   <a href="#contributing">Contributing</a> •
   <a href="#license">License</a>
 </p>
+
 
 ## Introduction
 
